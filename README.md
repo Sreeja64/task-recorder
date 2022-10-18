@@ -9,7 +9,7 @@ mongodb installed
 
 Clone the repo and get inside the root folder
 
-Create a .env file in the root folder and the following content:
+Create a .env file in the root folder with the following content:
 ```
 DB_URL = mongodb://localhost/TaskDB
 PORT = 3030
