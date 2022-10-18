@@ -8,6 +8,7 @@ node.js installed
 mongodb installed
 
 Clone the repo and get inside the root folder
+Checkout to the master branch
 
 Create a .env file in the root folder with the following content:
 ```
